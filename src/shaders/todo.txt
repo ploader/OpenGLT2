@@ -1,0 +1,7 @@
+create update and close window with glfw
+shader program is kind off set up
+---
+....
+next :
+		load vertices into the GPU memory and tell how to read them
+		
